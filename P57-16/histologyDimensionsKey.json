@@ -50,7 +50,7 @@
     "9": {
         "width": 222,
         "height": 306,
-        "slices": 38,
+        "slices": 40,
         "orientation": "axial"
     },
     "10": {
@@ -84,9 +84,9 @@
         "orientation": "coronal"
     },
     "15": {
-        "width": 512,
-        "height": 618,
-        "slices": 22,
+        "width": 872,
+        "height": 594,
+        "slices": 18,
         "orientation": "axial"
     },
     "16": {
