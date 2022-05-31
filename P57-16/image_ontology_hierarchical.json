@@ -984,7 +984,7 @@
         "data": {
             "blockNumber": 28,
             "xh": 277,
-            "yh": 513,
+            "yh": 511,
             "zh": 10,
             "xm": 89,
             "ym": 133,
@@ -1001,6 +1001,54 @@
                     "xm": 89,
                     "ym": 133,
                     "zm": 106
+                }
+            },
+            {
+                "label": "fastigial_(medial)_nucleus",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 216,
+                    "yh": 503,
+                    "zh": 26,
+                    "xm": 42,
+                    "ym": 139,
+                    "zm": 123
+                }
+            },
+            {
+                "label": "dentate_(lateral)_nucleus",
+                "data": {
+                    "blockNumber": 28,
+                    "xh": 237,
+                    "yh": 480,
+                    "zh": 25,
+                    "xm": 74,
+                    "ym": 124,
+                    "zm": 116
+                }
+            },
+            {
+                "label": "medial_interpositus_(globose)_nucleus",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 263,
+                    "yh": 437,
+                    "zh": 12,
+                    "xm": 57,
+                    "ym": 121,
+                    "zm": 120
+                }
+            },
+            {
+                "label": "lateral_interpositus_(emboliform)_nucleus",
+                "data": {
+                    "blockNumber": 25,
+                    "xh": 233,
+                    "yh": 474,
+                    "zh": 10,
+                    "xm": 57,
+                    "ym": 133,
+                    "zm": 124
                 }
             }
         ]
@@ -2241,11 +2289,11 @@
                 "label": "Transverse pontocerebellar tracts",
                 "data": {
                     "blockNumber": 13,
-                    "xh": 211,
-                    "yh": 177,
+                    "xh": 205,
+                    "yh": 178,
                     "zh": 11,
                     "xm": 47,
-                    "ym": 187,
+                    "ym": 188,
                     "zm": 113
                 }
             },
@@ -2589,12 +2637,12 @@
                 "label": "Dorsal nucleus of lateral lemniscus",
                 "data": {
                     "blockNumber": 13,
-                    "xh": 83,
-                    "yh": 124,
-                    "zh": 16,
+                    "xh": 93,
+                    "yh": 129,
+                    "zh": 3,
                     "xm": 59,
-                    "ym": 211,
-                    "zm": 91
+                    "ym": 214,
+                    "zm": 102
                 }
             },
             {
@@ -2617,7 +2665,7 @@
                     "yh": 207,
                     "zh": 6,
                     "xm": 40,
-                    "ym": 220,
+                    "ym": 221,
                     "zm": 97
                 }
             },
