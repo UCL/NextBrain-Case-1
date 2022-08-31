@@ -84,14 +84,14 @@
         "orientation": "coronal"
     },
     "15": {
-        "width": 3552,
-        "height": 4736,
+        "width": 6576,
+        "height": 6412,
         "slices": 22,
         "orientation": "axial"
     },
     "16": {
         "width": 478,
-        "height": 4774,
+        "height": 4673,
         "slices": 38,
         "orientation": "axial"
     },
